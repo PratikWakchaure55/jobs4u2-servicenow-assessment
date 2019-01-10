@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_role">
+    <sys_ui_action_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ui_action_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-06 16:48:05</sys_created_on>
+        <sys_id>7f6b451a4f32a3001b8d00f18110c757</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cancel Application.x_298718_jobs4u_2.user</sys_name>
+        <sys_package display_value="Jobs4U 2" source="x_298718_jobs4u_2">572d9e294f3a23001b8d00f18110c79b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jobs4U 2">572d9e294f3a23001b8d00f18110c79b</sys_scope>
+        <sys_ui_action display_value="Cancel Application">066b41124f72a3001b8d00f18110c78e</sys_ui_action>
+        <sys_update_name>sys_ui_action_role_7f6b451a4f32a3001b8d00f18110c757</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-06 16:48:05</sys_updated_on>
+        <sys_user_role display_value="x_298718_jobs4u_2.user" name="x_298718_jobs4u_2.user">1f2d96694f3a23001b8d00f18110c7b1</sys_user_role>
+    </sys_ui_action_role>
+</record_update>

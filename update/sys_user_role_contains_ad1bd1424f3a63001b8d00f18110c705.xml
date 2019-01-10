@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_298718_jobs4u_2.manager" name="x_298718_jobs4u_2.manager">1c3e5e694f3a23001b8d00f18110c7b0</contains>
+        <role display_value="x_298718_jobs4u_2.admin" name="x_298718_jobs4u_2.admin">296d9a694f3a23001b8d00f18110c75d</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-05 23:14:38</sys_created_on>
+        <sys_id>ad1bd1424f3a63001b8d00f18110c705</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_298718_jobs4u_2.manager.x_298718_jobs4u_2.admin</sys_name>
+        <sys_package display_value="Jobs4U 2" source="x_298718_jobs4u_2">572d9e294f3a23001b8d00f18110c79b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jobs4U 2">572d9e294f3a23001b8d00f18110c79b</sys_scope>
+        <sys_update_name>sys_user_role_contains_ad1bd1424f3a63001b8d00f18110c705</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-05 23:14:38</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

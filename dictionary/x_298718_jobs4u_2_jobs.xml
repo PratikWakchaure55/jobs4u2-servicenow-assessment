@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Job" max_length="40" name="x_298718_jobs4u_2_jobs" type="collection">
+        <element default="true" label="Available" max_length="40" name="available" type="boolean"/>
+        <element label="Direct Manager" mandatory="true" max_length="40" name="direct_manager" reference="sys_user" type="reference"/>
+        <element label="End date" mandatory="true" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Job description" mandatory="true" max_length="400" name="job_description" type="string"/>
+        <element label="Job name" mandatory="true" max_length="40" name="job_name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Job ID" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Start date" mandatory="true" max_length="40" name="start_date" type="glide_date"/>
+    </element>
+</database>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Application" max_length="40" name="x_298718_jobs4u_2_application" sizeclass="9" type="collection">
+        <element label="Applicant" max_length="32" name="applicant" read_only="true" reference="sys_user" type="reference"/>
+        <element label="Interview Date" max_length="40" name="interview_date" type="glide_date_time"/>
+        <element label="Job ID" max_length="40" name="job_id" read_only="true" reference="x_298718_jobs4u_2_jobs" type="reference"/>
+        <element label="Reasons to hire" max_length="400" name="reasons_to_hire" read_only="true" type="string"/>
+        <element label="Resume" max_length="40" name="resume" read_only="true" type="file_attachment"/>
+        <element choice="3" default="-2" display="true" label="Status" max_length="40" name="status" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="Application Canceled" sequence="0" value="-2"/>
+                <element inactive_on_update="false" label="Application Rejected" sequence="1" value="-1"/>
+                <element inactive_on_update="false" label="Application Recieved" sequence="2" value="0"/>
+                <element inactive_on_update="false" label="Interview Scheduled" sequence="3" value="1"/>
+                <element inactive_on_update="false" label="Interview Completed" sequence="4" value="2"/>
+                <element inactive_on_update="false" label="Under Review" sequence="5" value="3"/>
+                <element inactive_on_update="false" label="Application Approved" sequence="6" value="4"/>
+            </choice>
+        </element>
+    </element>
+</database>

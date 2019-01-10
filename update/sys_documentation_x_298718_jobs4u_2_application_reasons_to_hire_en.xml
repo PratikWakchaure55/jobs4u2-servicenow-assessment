@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="reasons_to_hire" label="Reasons to hire" language="en" table="x_298718_jobs4u_2_application">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>reasons_to_hire</element>
+            <help/>
+            <hint/>
+            <label>Reasons to hire</label>
+            <language>en</language>
+            <name>x_298718_jobs4u_2_application</name>
+            <plural>Reasons to hires</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-05 19:35:07</sys_created_on>
+            <sys_id>42d8e00a4fb663001b8d00f18110c77b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Reasons to hire</sys_name>
+            <sys_package display_value="Jobs4U 2" source="x_298718_jobs4u_2">572d9e294f3a23001b8d00f18110c79b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Jobs4U 2">572d9e294f3a23001b8d00f18110c79b</sys_scope>
+            <sys_update_name>sys_documentation_x_298718_jobs4u_2_application_reasons_to_hire_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-05 19:35:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="resume" label="Resume" language="en" table="x_298718_jobs4u_2_application">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>resume</element>
+            <help/>
+            <hint/>
+            <label>Resume</label>
+            <language>en</language>
+            <name>x_298718_jobs4u_2_application</name>
+            <plural>Resumes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-05 19:23:53</sys_created_on>
+            <sys_id>154668864fb663001b8d00f18110c71d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Resume</sys_name>
+            <sys_package display_value="Jobs4U 2" source="x_298718_jobs4u_2">572d9e294f3a23001b8d00f18110c79b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Jobs4U 2">572d9e294f3a23001b8d00f18110c79b</sys_scope>
+            <sys_update_name>sys_documentation_x_298718_jobs4u_2_application_resume_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-05 19:39:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
